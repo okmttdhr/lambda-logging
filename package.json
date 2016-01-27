@@ -1,0 +1,16 @@
+{
+  "name": "lambda-logging",
+  "version": "1.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "okp",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.1.5",
+    "stacktrace-js": "^1.0.1",
+    "superagent": "^1.7.2"
+  }
+}
