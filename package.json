@@ -1,7 +1,8 @@
 {
   "name": "lambda-logging",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
+  "homepage": "https://github.com/okmttdhr/lambda-logging",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

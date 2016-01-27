@@ -2,6 +2,11 @@
 
 `lambda-logging` make it easy to post errors on single page application to DynamoDB using AWS Lambda and API Gateway from client.
 
+## Install
+
+```
+npm i lambda-logging --save
+```
 
 ## Example
 
