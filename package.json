@@ -1,14 +1,17 @@
 {
   "name": "lambda-logging",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
-  "homepage": "https://github.com/okmttdhr/lambda-logging",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/okmttdhr/lambda-logging.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "okp",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "bluebird": "^3.1.5",
     "stacktrace-js": "^1.0.1",
