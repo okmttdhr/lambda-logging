@@ -15,6 +15,6 @@
   "dependencies": {
     "bluebird": "^3.1.5",
     "stacktrace-js": "^1.0.1",
-    "superagent": "^1.7.2"
+    "superagent": "^5.1.0"
   }
 }
